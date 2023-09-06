@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI, R&D**
 
-- 📫 How to reach me **emmanuelyabrandao@gamil.com**
+- 📫 How to reach me **emmanuelyabrandao@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emmanuely-a-brandao/](https://www.linkedin.com/in/emmanuely-a-brandao/)
 
